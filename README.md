@@ -25,6 +25,14 @@ A comprehensive program designed to help students of all levels learn and practi
 
 ---
 
+## Downloads:
+
+Ready-made installers are available for download:
+- **[Setup.exe](./setup.exe)** - Simplified installation.
+- **[Anglicka-Gramatika.msi](./Anglicka-Gramatika.msi)** - Standard Windows Installer Package.
+
+---
+
 ## Sentence Files:
 
 The program supports predefined text files organized by language proficiency levels:
@@ -46,7 +54,7 @@ These files contain sentences for practice. **If you add new sentences, ensure t
 
 ## Installation:
 
-1. Download the installer from GitHub.
+1. Download the installer from the **Downloads** section above or from the **Releases** page on GitHub.
 2. Run the installer and follow the on-screen instructions.
 3. Launch the program from your desktop or Start menu.
 
@@ -105,6 +113,14 @@ Komplexný program na učenie a precvičovanie anglickej gramatiky. Zameriava sa
 
 ---
 
+## Na stiahnutie:
+
+Hotové inštalátory sú dostupné na stiahnutie:
+- **[Setup.exe](./setup.exe)** - Jednoduchá inštalácia.
+- **[Anglicka-Gramatika.msi](./Anglicka-Gramatika.msi)** - Štandardný Windows inštalátor.
+
+---
+
 ## Textové súbory:
 
 Program podporuje predpripravené textové súbory rozdelené podľa jazykových úrovní:
@@ -126,7 +142,7 @@ Tieto súbory obsahujú vety na precvičovanie. **V prípade pridania nových vi
 
 ## Inštalácia:
 
-1. Stiahnite si inštalačný súbor z GitHubu.
+1. Stiahnite si inštalačný súbor z časti **Na stiahnutie** vyššie alebo zo stránky **Releases** na GitHub.
 2. Spustite inštalačný súbor a riaďte sa pokynmi na obrazovke.
 3. Program spustite z plochy alebo zo **Start menu**.
 
