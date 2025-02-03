@@ -1,0 +1,47 @@
+### Questions -> Otázky:
+- Idem ja? -> Do I go?
+- Ideš ty? -> Do you go?
+- Ide on? -> Does he go?
+- Ide ona? -> Does she go?
+- Ideme my? -> Do we go?
+- Idete vy? -> Do you go?
+- Idú oni? -> Do they go?
+
+### Present Simple (go) -> Jednoduchý prítomný čas (ísť):
+- Ja idem -> I go
+- Ty ideš -> You go
+- On ide -> He goes
+- Ona ide -> She goes
+- My ideme -> We go
+- Vy idete -> You go
+- Oni idú -> They go
+
+### Present Simple (do) -> Jednoduchý prítomný čas (robiť):
+- Ja robím -> I do
+- Ty robíš -> You do
+- On robí -> He does
+- Ona robí -> She does
+- To robí -> It does
+- My robíme -> We do
+- Vy robíte -> You do
+- Oni robia -> They do
+
+### Negatives -> Zápory:
+- Ja nejdem -> I don't go
+- Ty nejdeš -> You don't go
+- On nejde -> He doesn't go
+- Ona nejde -> She doesn't go
+- To nejde -> It doesn't go
+- My nejdeme -> We don't go
+- Vy nejdete -> You don't go
+- Oni nejdú -> They don't go
+
+### Past Simple -> Minulý čas (ísť):
+- Ja som išiel -> I went
+- Ty si išiel -> You went
+- On išiel -> He went
+- Ona išla -> She went
+- To išlo -> It went
+- My sme išli -> We went
+- Vy ste išli -> You went
+- Oni išli -> They went

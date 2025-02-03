@@ -1,0 +1,158 @@
+### Present Simple (go) -> Jednoduchý prítomný čas (chodiť, ísť pravidelne):
+- Ja chodím -> I go
+- Ty chodíš -> You go
+- On chodí -> He goes
+- Ona chodí -> She goes
+- My chodíme -> We go
+- Vy chodíte -> You go
+- Oni chodia -> They go
+
+### Present Simple (do) -> Jednoduchý prítomný čas (robiť pravidelne):
+- Ja robím -> I do
+- Ty robíš -> You do
+- On robí -> He does
+- Ona robí -> She does
+- To robí -> It does
+- My robíme -> We do
+- Vy robíte -> You do
+- Oni robia -> They do
+
+### Negatives -> Zápory:
+- Ja nechodím -> I don't go
+- Ty nechodíš -> You don't go
+- On nechodí -> He doesn't go
+- Ona nechodí -> She doesn't go
+- To nechodí -> It doesn't go
+- My nechodíme -> We don't go
+- Vy nechodíte -> You don't go
+- Oni nechodia -> They don't go
+
+### Past Simple -> Minulý čas (chodenie v minulosti):
+- Ja som chodil -> I went
+- Ty si chodil -> You went
+- On chodil -> He went
+- Ona chodila -> She went
+- To chodilo -> It went
+- My sme chodili -> We went
+- Vy ste chodili -> You went
+- Oni chodili -> They went
+
+### Questions -> Otázky:
+- Chodím ja? -> Do I go?
+- Chodíš ty? -> Do you go?
+- Chodí on? -> Does he go?
+- Chodí ona? -> Does she go?
+- Chodíme my? -> Do we go?
+- Chodíte vy? -> Do you go?
+- Chodia oni? -> Do they go?
+
+### Future Simple (will) -> Budúci čas (pôjdem):
+- Ja pôjdem -> I will go
+- Ty pôjdeš -> You will go
+- On pôjde -> He will go
+- Ona pôjde -> She will go
+- My pôjdeme -> We will go
+- Vy pôjdete -> You will go
+- Oni pôjdu -> They will go
+
+### Present Continuous (go) -> Priebehový prítomný čas (práve teraz ísť):
+- Ja práve idem -> I am going
+- Ty práve ideš -> You are going
+- On práve ide -> He is going
+- Ona práve ide -> She is going
+- My práve ideme -> We are going
+- Vy práve idete -> You are going
+- Oni práve idú -> They are going
+
+### Present Simple (have) -> Jednoduchý prítomný čas (mať):
+- Ja mám -> I have
+- Ty máš -> You have
+- On má -> He has
+- Ona má -> She has
+- To má -> It has
+- My máme -> We have
+- Vy máte -> You have
+- Oni majú -> They have
+
+### Past Continuous (go) -> Minulý priebehový čas (bol som niekam na ceste):
+- Ja som išiel -> I was going
+- Ty si išiel -> You were going
+- On išiel -> He was going
+- Ona išla -> She was going
+- To išlo -> It was going
+- My sme išli -> We were going
+- Vy ste išli -> You were going
+- Oni išli -> They were going
+
+### Future Continuous (will be + ing) -> Budúci priebehový čas (budem niekam na ceste):
+- Ja pôjdem -> I will be going
+- Ty pôjdeš -> You will be going
+- On pôjde -> He will be going
+- Ona pôjde -> She will be going
+- To pôjde -> It will be going
+- My pôjdeme -> We will be going
+- Vy pôjdete -> You will be going
+- Oni pôjdu -> They will be going
+
+### Modal Verbs (can, must, should) -> Modálne slovesá:
+- Ja môžem -> I can
+- Ty môžeš -> You can
+- On môže -> He can
+- Ona môže -> She can
+- To môže -> It can
+- My môžeme -> We can
+- Vy môžete -> You can
+- Oni môžu -> They can
+
+- Ja musím -> I must
+- Ty musíš -> You must
+- On musí -> He must
+- Ona musí -> She must
+- To musí -> It must
+- My musíme -> We must
+- Vy musíte -> You must
+- Oni musia -> They must
+
+- Ja by som mal -> I should
+- Ty by si mal -> You should
+- On by mal -> He should
+- Ona by mala -> She should
+- To by malo -> It should
+- My by sme mali -> We should
+- Vy by ste mali -> You should
+- Oni by mali -> They should
+
+### There is / There are -> Existuje / Sú:
+- Tam je kniha -> There is a book
+- Tam sú knihy -> There are books
+- Tam je stolička -> There is a chair
+- Tam sú stoličky -> There are chairs
+- V mojej izbe je stôl -> There is a table in my room
+- V mojom dome sú tri izby -> There are three rooms in my house
+
+### Comparatives and Superlatives -> Porovnávanie:
+- Tento dom je väčší ako tamten -> This house is bigger than that one
+- Táto kniha je zaujímavejšia -> This book is more interesting
+- On je vyšší ako ja -> He is taller than me
+- Toto je najlepšia káva -> This is the best coffee
+- Toto je najhorší film -> This is the worst movie
+
+### Going to -> Plánovaná budúcnosť:
+- Ja sa chystám cestovať -> I am going to travel
+- Ty sa chystáš kúpiť auto -> You are going to buy a car
+- On sa chystá študovať -> He is going to study
+- Ona sa chystá variť -> She is going to cook
+- My sa chystáme ísť do kina -> We are going to go to the cinema
+- Vy sa chystáte navštíviť Londýn -> You are going to visit London
+- Oni sa chystajú spraviť večeru -> They are going to make dinner
+
+### First Conditional -> Prvá podmienková veta:
+- Ak bude pršať, zostanem doma -> If it rains, I will stay at home
+- Ak sa budeš učiť, prejdeš skúšku -> If you study, you will pass the exam
+- Ak mi zavoláš, odpoviem -> If you call me, I will answer
+- Ak budeš jesť veľa sladkostí, budeš mať zuby pokazené -> If you eat a lot of sweets, you will have bad teeth
+
+### Second Conditional -> Druhá podmienková veta:
+- Keby som bol bohatý, kúpil by som si dom -> If I were rich, I would buy a house
+- Keby si študoval viac, mal by si lepšie známky -> If you studied more, you would get better grades
+- Keby on vedel pravdu, bol by šťastný -> If he knew the truth, he would be happy

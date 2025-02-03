@@ -1,0 +1,36 @@
+### Future Simple (will) -> Budúci čas (ísť):
+- Ja pôjdem -> I will go
+- Ty pôjdeš -> You will go
+- On pôjde -> He will go
+- Ona pôjde -> She will go
+- My pôjdeme -> We will go
+- Vy pôjdete -> You will go
+- Oni pôjdu -> They will go
+
+### Present Continuous (go) -> Priebehový prítomný čas (ísť):
+- Ja idem -> I am going
+- Ty ideš -> You are going
+- On ide -> He is going
+- Ona ide -> She is going
+- My ideme -> We are going
+- Vy idete -> You are going
+- Oni idú -> They are going
+
+### Modal Verbs (can, must, should) -> Modálne slovesá:
+- Ja môžem -> I can
+- Ty môžeš -> You can
+- On môže -> He can
+- Ona môže -> She can
+- To môže -> It can
+- My môžeme -> We can
+- Vy môžete -> You can
+- Oni môžu -> They can
+
+- Ja musím -> I must
+- Ty musíš -> You must
+- On musí -> He must
+- Ona musí -> She must
+- To musí -> It must
+- My musíme -> We must
+- Vy musíte -> You must
+- Oni musia -> They must
