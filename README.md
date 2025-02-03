@@ -41,7 +41,11 @@ The program supports predefined text files organized by language proficiency lev
 - **C Level - Advanced (C1-C2)**
 - **All Levels (A1-A2)-(B1-B2)-(C1-C2)**
 
-These files contain sentences for practice. **If you add new sentences, ensure the format remains consistent (e.g., `- Slovak Sentence -> English Sentence`).**
+**Important Note:**  
+After the first launch, the database of grammatical patterns will likely be empty. To begin testing, don't forget to import one of the text files listed above using the **"Importovať dáta"** button in the application. Once imported, the database will persist between sessions, and the last imported file will be remembered.
+
+**Custom Grammar Files:**  
+If you wish to add new sentences, ensure the format remains consistent (e.g., `- Slovak Sentence -> English Sentence`).
 
 ---
 
@@ -129,7 +133,11 @@ Program podporuje predpripravené textové súbory rozdelené podľa jazykových
 - **C Level - Advanced (C1-C2)**
 - **All Levels (A1-A2)-(B1-B2)-(C1-C2)**
 
-Tieto súbory obsahujú vety na precvičovanie. **V prípade pridania nových viet je nevyhnutné zachovať existujúci formát (napr. `- Slovenská veta -> Anglická veta`).**
+**Dôležitá poznámka:**  
+Po prvom spustení bude databáza gramatických vzorov pravdepodobne prázdna. Nezabudnite importovať jeden z vyššie uvedených textových súborov pomocou tlačidla **"Importovať dáta"**. Po importe zostane databáza uložená a posledný importovaný súbor sa načíta automaticky pri ďalšom spustení programu.
+
+**Vlastné gramatické súbory:**  
+V prípade pridania nových viet je nevyhnutné zachovať existujúci formát (napr. `- Slovenská veta -> Anglická veta`).
 
 ---
 
